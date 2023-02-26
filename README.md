@@ -1,6 +1,6 @@
 # docker-blockbook-bitzeny
 
-Dockerfile to launch Blockbook for BitZeny
+Blockbook Dockerfile for BitZeny
 
 ## Usage (directly from Docker Hub)
 
